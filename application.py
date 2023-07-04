@@ -7,7 +7,8 @@ import logging
 logging.basicConfig(filename="scrapper.log" , level=logging.INFO)
 from  pymongo.mongo_client import MongoClient
 
-app = Flask(__name__)
+application = Flask(__name__)
+app=application
 
 @app.route("/", methods = ['GET'])
 def homepage():
