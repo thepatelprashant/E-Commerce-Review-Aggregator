@@ -2,19 +2,26 @@
 
 {% block head %}
 
-<title>Search Page</title>
+<title>RevuRovar</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 {% endblock %}
 
 {% block body %}
 <div class="content">
-    <h1 style="text-align: center">Search</h1>
-
+    <h1>RevuRovar</h1>
+    <div class="title">
+        <h6 style="text-align: center">Check! Compare! Buy!</h6>
+    </div>
     <div class="form">
-        <form action="/review" method="POST">
-            <input type="text" name="content" id="content">
-            <input type="submit" value="Search">
+        <form class="search" action="/review" method="POST">
+            <input type="text" name="content" placeholder="Enter Product Name" id="content">
+            <button type="submit">Submit</button>
         </form>
     </div>
+</div>
+<div class="video">
+    <img src="1.jpg" alt="">   
+    <img src="2.jpg" alt="">   
+    <img src="3.jp+g" alt="">
 </div>
 {% endblock %}

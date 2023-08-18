@@ -5494,3 +5494,292 @@ INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'Flipkart Custome
 INFO:werkzeug:172.18.0.2 - - [04/Jul/2023 17:47:04] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [04/Jul/2023 17:47:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [04/Jul/2023 17:47:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:36:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:36:33] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:36:33] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:36:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsungf14', 'Name': 'Manish  Kumar', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Good camera Quality'}, {'Product': 'samsungf14', 'Name': 'Ganesh Kumar Sinha', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good 5g mobile.'}, {'Product': 'samsungf14', 'Name': 'ajay verma', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good picture  quality'}, {'Product': 'samsungf14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Awesome product, my father-in-low is so happy with this mobile , easy to use , light weight design ,I happy to see him happy'}, {'Product': 'samsungf14', 'Name': 'Sandeepa Sinha', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Decent camera quality. The adaptor to the charger shall not be provided with the phone. I ordered the Samsung 25W charger. I am very much impressed by the super charing feature. The phone gets charged very fast and the battery lasts very long. The diaplay is amazing. Soft and smooth screen. Very fast performance. Overall i like the phone. I hope its durable too.'}, {'Product': 'samsungf14', 'Name': 'Kishan Kesari', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Superb mobile Good productBattery             5/5Camera            4/5Display.            4/5Performance   4.5/5Worth..✌'}, {'Product': 'samsungf14', 'Name': 'SANJAY MISHRA', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Nice product I am satisfied this Phone Looking so wonderful very nice Phone'}, {'Product': 'samsungf14', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Photos are cool 😎 👌 ☺️ ✨️  but charging are slow in process'}, {'Product': 'samsungf14', 'Name': 'Praveen Boppy', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Phone is good. However, i cant get a suitable back cover to protect the phone in flipkart for this model. Atleast agency should have provided back cover along with phone which doesnt cost much'}, {'Product': 'samsungf14', 'Name': 'SHEKHAR  ROCK', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Phone is good but heavy Camera 7/10Battery 10/10Design 4/10Performance 8/10Connectivity 7/10'}, {'Product': 'samsungf14', 'Name': 'SHEKHAR  ROCK', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Phone is good but heavy Camera 7/10Battery 10/10Design 4/10Performance 8/10Connectivity 7/10'}]
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:36:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:36:42] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:36:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:43:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:43:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:43:40] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:43:40] "GET /static/css/img.jpg HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:45:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:45:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:45:52] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:45:52] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:10] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:47:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:48:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:48:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:48:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:08] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:08] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': '', 'Name': 'Ar. Shreya Rajvanshi', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It was so fast and clean. Thanks Flipkart!'}, {'Product': '', 'Name': 'Saurav Purkayastha', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product'}, {'Product': '', 'Name': 'Anish Pandey', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Good'}, {'Product': '', 'Name': 'Fahim  Ahmad', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'It is better than Nutrila soya bari'}, {'Product': '', 'Name': 'Subham Dixit', 'Rating': '1', 'CommentHead': 'Worst experience ever!', 'Comment': 'Use By Date is 27/07/2021'}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good'}, {'Product': '', 'Name': 'Soumya Sarkar', 'Rating': '3', 'CommentHead': 'Just okay', 'Comment': 'nice'}, {'Product': '', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'It is good product and valuebl'}, {'Product': '', 'Name': 'Arjun  Das', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Good'}, {'Product': '', 'Name': 'Raja Kumar', 'Rating': '1', 'CommentHead': "Don't waste your money", 'Comment': 'Very bad product'}, {'Product': '', 'Name': 'Raja Kumar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Very bad product'}]
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:12] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:49:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:52:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:52:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:52:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:53:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:53:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:53:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsungf14', 'Name': 'Shivranjani Tamrakar', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Same as any Samsung phone but yes little improved.'}, {'Product': 'samsungf14', 'Name': 'Nitu singh Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Good mobile'}, {'Product': 'samsungf14', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': "I trust Samsung but, out of 4 GB RAM 2.4 GB is taken by system, I don't know about Ram plus effectiveness. This is only drawback I figured out."}, {'Product': 'samsungf14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is Good product 👍'}, {'Product': 'samsungf14', 'Name': 'Santosh Kumar', 'Rating': '2', 'CommentHead': 'Moderate', 'Comment': "Never expected this from Samsung. No adapter, no case was still OK, but  performance wise it's a real disappointment. While fingerprint sensor is fine, phone's touch lags, many a time you have to tap twice to open an app. When three finger screenshot is best you are bound to press power and sound button simultaneously to take screen shot, don't know if Samsung has made those buttons that sturdy for quick and repeated use. Camera quality is not upto the mark, whether front or rear. Design is s..."}, {'Product': 'samsungf14', 'Name': 'Rajesh Kumar', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'The phone is good, its design is also good, the performance is good, the camera is also good.. 😍'}, {'Product': 'samsungf14', 'Name': 'Flipkart Customer', 'Rating': '2', 'CommentHead': 'Could be way better', 'Comment': "Major cost cutting done in it no protective cover no charger no protective flim cost cutting is good but when ever you launch new phone protective cover should be provided as it's very much slipy and same is also yet not available in market camera quality is not up to mark in night mode"}, {'Product': 'samsungf14', 'Name': 'Sumith Ramdas', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': "Overall a very good phone in the budget. The best thing is Samsung's One UI core. The best UI I have ever used. Can easily recommend if you are not a gamer."}, {'Product': 'samsungf14', 'Name': 'Parmar Balvant', 'Rating': '5', 'CommentHead': 'Good choice', 'Comment': 'Perfect product !'}, {'Product': 'samsungf14', 'Name': 'Shivaji  shinde ', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Nice phone 🤳 I am happy 😊'}, {'Product': 'samsungf14', 'Name': 'Shivaji  shinde ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice phone 🤳 I am happy 😊'}]
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:54:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:54:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:54:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:55:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:55:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:55:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:56:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:56:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:56:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:56:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:56:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:56:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:58:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:58:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:58:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 00:58:02] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:01:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:01:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:01:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:01:24] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:02:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:02:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:02:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:02:45] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:07:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:07:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:07:42] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:07:42] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:04] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:18] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:18] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:28] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:28] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:38] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:38] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:49] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:08:50] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:09:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:09:03] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:09:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:09:04] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:09:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:09:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:09:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:09:49] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:10:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:10:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:10:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:10:32] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:10:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:10:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:10:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:11:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:11:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:11:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:11:47] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:11:47] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:11:47] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:11:47] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:13:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:13:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:13:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:13:45] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:13:45] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:13:46] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:13:46] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:14:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:14:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:14:51] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:14:51] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:14:51] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:14:51] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:14:51] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:13] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:13] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:13] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:13] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:13] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsungf14', 'Name': 'Manish  Kumar', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Good camera Quality'}, {'Product': 'samsungf14', 'Name': 'Ganesh Kumar Sinha', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good 5g mobile.'}, {'Product': 'samsungf14', 'Name': 'ajay verma', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good picture  quality'}, {'Product': 'samsungf14', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Awesome product, my father-in-low is so happy with this mobile , easy to use , light weight design ,I happy to see him happy'}, {'Product': 'samsungf14', 'Name': 'Sandeepa Sinha', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Decent camera quality. The adaptor to the charger shall not be provided with the phone. I ordered the Samsung 25W charger. I am very much impressed by the super charing feature. The phone gets charged very fast and the battery lasts very long. The diaplay is amazing. Soft and smooth screen. Very fast performance. Overall i like the phone. I hope its durable too.'}, {'Product': 'samsungf14', 'Name': 'Kishan Kesari', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Superb mobile Good productBattery             5/5Camera            4/5Display.            4/5Performance   4.5/5Worth..✌'}, {'Product': 'samsungf14', 'Name': 'SANJAY MISHRA', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Nice product I am satisfied this Phone Looking so wonderful very nice Phone'}, {'Product': 'samsungf14', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Photos are cool 😎 👌 ☺️ ✨️  but charging are slow in process'}, {'Product': 'samsungf14', 'Name': 'Praveen Boppy', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Phone is good. However, i cant get a suitable back cover to protect the phone in flipkart for this model. Atleast agency should have provided back cover along with phone which doesnt cost much'}, {'Product': 'samsungf14', 'Name': 'SHEKHAR  ROCK', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Phone is good but heavy Camera 7/10Battery 10/10Design 4/10Performance 8/10Connectivity 7/10'}, {'Product': 'samsungf14', 'Name': 'SHEKHAR  ROCK', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Phone is good but heavy Camera 7/10Battery 10/10Design 4/10Performance 8/10Connectivity 7/10'}]
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:15:54] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:08] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:08] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:08] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:08] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:08] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:18] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:18] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:18] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:18] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:18] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:27] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:27] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:27] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:27] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:28] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:59] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:59] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:59] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:18:59] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:19:00] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:19:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:19:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:19:55] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:19:55] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:19:55] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:19:55] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:19:56] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:06] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:06] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:06] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:06] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:07] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:16] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:16] "[33mGET /2.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:16] "[33mGET /1.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:16] "[33mGET /3.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:20:16] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:21:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:21:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:21:13] "[33mGET /1.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:21:13] "[33mGET /2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:21:13] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:21:13] "[33mGET /3.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:21:13] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Oppof19proplus5g', 'Name': 'ANAND SURESH  SAKATE', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'This is very interested and helpful 💫✨⚡✌️🥰'}, {'Product': 'Oppof19proplus5g', 'Name': 'SIDDAPPA CHANNAPUR', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Super'}, {'Product': 'Oppof19proplus5g', 'Name': 'baaskar vijayan', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Nice mobile.best price.thank flipkart.'}, {'Product': 'Oppof19proplus5g', 'Name': 'nithya raghu', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': "Super 5G Phone at this price range.. quality of the screen is very good and it's very lite weight"}, {'Product': 'Oppof19proplus5g', 'Name': 'Bhavana Dhomase', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Nice product'}, {'Product': 'Oppof19proplus5g', 'Name': 'Zuhra P C', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Awesome product, thanks Flipkart'}, {'Product': 'Oppof19proplus5g', 'Name': 'Vinu C k', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Nice one i like it ❤'}, {'Product': 'Oppof19proplus5g', 'Name': 'Sadik Shaikh', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Super divice good cameras great battery backup for nor usages beautiful looks and very fast charging'}, {'Product': 'Oppof19proplus5g', 'Name': 'Anik  SAHA', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Good Phone 📱 good camera 📸 good battery 🔋'}, {'Product': 'Oppof19proplus5g', 'Name': 'riya joshi', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Very nice phone thanks flipkart'}, {'Product': 'Oppof19proplus5g', 'Name': 'riya joshi', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Very nice phone thanks flipkart'}]
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:24:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:24:17] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:24:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:24:17] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:48:39] "[33mGET /1.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:48:39] "[33mGET /2.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 01:48:39] "[33mGET /3.jpg HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'Oppof19proplus5g', 'Name': 'ANAND SURESH  SAKATE', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'This is very interested and helpful 💫✨⚡✌️🥰'}, {'Product': 'Oppof19proplus5g', 'Name': 'SIDDAPPA CHANNAPUR', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Super'}, {'Product': 'Oppof19proplus5g', 'Name': 'baaskar vijayan', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Nice mobile.best price.thank flipkart.'}, {'Product': 'Oppof19proplus5g', 'Name': 'nithya raghu', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': "Super 5G Phone at this price range.. quality of the screen is very good and it's very lite weight"}, {'Product': 'Oppof19proplus5g', 'Name': 'Bhavana Dhomase', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Nice product'}, {'Product': 'Oppof19proplus5g', 'Name': 'Zuhra P C', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Awesome product, thanks Flipkart'}, {'Product': 'Oppof19proplus5g', 'Name': 'Vinu C k', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Nice one i like it ❤'}, {'Product': 'Oppof19proplus5g', 'Name': 'Sadik Shaikh', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Super divice good cameras great battery backup for nor usages beautiful looks and very fast charging'}, {'Product': 'Oppof19proplus5g', 'Name': 'Anik  SAHA', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Good Phone 📱 good camera 📸 good battery 🔋'}, {'Product': 'Oppof19proplus5g', 'Name': 'riya joshi', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Very nice phone thanks flipkart'}, {'Product': 'Oppof19proplus5g', 'Name': 'riya joshi', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Very nice phone thanks flipkart'}]
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:21:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:21:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:21:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:21:03] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'macbook', 'Name': 'Shankar G', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "Value for money product...But no one said this major issue on every mac. If I touch or rub the mac body while charging, I can feel some electric sensation passing through my body.. when I searched about the issue, this issue has existed for the last 10 years on all mac devices because of 2 pin chargers without ground. This issue can be resolved only with a 3 pin charger with ground. This issue should be resolved by mac providing 3 pin charger but they didn't care about this issue. We should..."}, {'Product': 'macbook', 'Name': 'Aryan Agarwal', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Best in class laptop ❤️💫'}, {'Product': 'macbook', 'Name': 'Nitesh Kumar', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': "About  me (type of consumer): moved from windows to Apple after 8 years ! Never buyed a laptop ! Best transition stage.Being practical I always don't wanted to move to Apple instead going for windows in that or less price , but apple did its job ,this time not just the branding but the performance at its best .Coder review : Performance : 10/10I used android studio , u can easily run the emulator ,no lagFrom editing videos to multitaskig 30 apps at a time , M1 is the beat one mach..."}, {'Product': 'macbook', 'Name': 'Nitish Sharma', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "A bit expensive when we compare with  today's intel (11th gen) or AMD (Ryzen 5th gen) based windows Laptops with RTX 30 Graphics but this Apple M1 in terms of overall performance,  it is far beyond what windows laptops can offer in same segment.I won't compare it with windows laptops as we all are aware of it. This is more about M1 chip. People are worried about buying M1 version because of compatibility issues.Don't worry, this processor is so powerful and in terms of compatibility, this ..."}, {'Product': 'macbook', 'Name': 'Awani Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Best device ever .I love it...'}, {'Product': 'macbook', 'Name': 'Kunal Kathe', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Fantastic value for money machine!! Absolute beast as far as sheer performance is concerned that being super efficient on the battery. 1. Using it mainly for coding purposes, browsing and all that regular stuff. Haven’t played any games on it so I can’t comment on battery life and performance while gaming but with regular coding stuff like web development, mobile app development, web browsing etc the battery will easily last for 10+ hrs or even more.2. Apple nailed the thermals on this mac...'}, {'Product': 'macbook', 'Name': 'Arijit Kundu', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Unbeatable'}, {'Product': 'macbook', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'My first Macbook and no regret that I waited for this. Sleek design, lightning speed, super light weight and silent as a wolf.If you want to have a laptop that is super cool in look as well as performance, go for it.'}, {'Product': 'macbook', 'Name': 'Akash Gupta', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Just love it, dream comes true😎'}, {'Product': 'macbook', 'Name': 'Omkar  Dake', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'A product worth buying.'}, {'Product': 'macbook', 'Name': 'Omkar  Dake', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'A product worth buying.'}]
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:37:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:37:31] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:37:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:37:31] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:38:31] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:38:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone14', 'Name': 'Avi Nash', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good'}, {'Product': 'iphone14', 'Name': 'Tara singh mehra', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice camera but battery drain fast specially on video recording'}, {'Product': 'iphone14', 'Name': 'Ajay Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Just amazing!'}, {'Product': 'iphone14', 'Name': 'Narendar Redyy', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Nice UI and Fast'}, {'Product': 'iphone14', 'Name': 'Ashwini  biswal ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Awesome 👍'}, {'Product': 'iphone14', 'Name': 'Rahul Prasad ', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Best smart phone under this price range compare to other phones in 2023 if you see overall build quality, performance and Camera with autofocus and video action mode are awesome50% extra RAM compared to iPhone 13 and other more features. Best time to upgrade to iPhone 14 . I am so happy See Low light photos are amazing..'}, {'Product': 'iphone14', 'Name': 'SUNNY KUMAR', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'I used iPhone 12 mini and now upgraded with iPhone 14. Camera quality is awesome.Full day battery backup.Super Retina display with high dynamic range is awesome.In terms of camera and battery life is big upgrade for me.'}, {'Product': 'iphone14', 'Name': 'Shivam  kumar', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Thanku filipkart best phone in the world ❤️'}, {'Product': 'iphone14', 'Name': 'Vaish Khan', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Ultimate'}, {'Product': 'iphone14', 'Name': 'satyam', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'An absolute beast. This is what you expect after paying such amount. Everything is perfect about this phone from build quality to camera to performance. Absolutely worth it.'}, {'Product': 'iphone14', 'Name': 'satyam', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'An absolute beast. This is what you expect after paying such amount. Everything is perfect about this phone from build quality to camera to performance. Absolutely worth it.'}]
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:42:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:42:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:42:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [19/Aug/2023 02:42:13] "[36mGET /static/css/img.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
